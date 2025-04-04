@@ -1,8 +1,11 @@
-👋 Hi, I’m Hedayat Haddadi (@HedayatHaddadi).
-👀 My interests lie in artificial intelligence, with a focus on machine learning and deep learning.
-🌱 I’m currently exploring and working on graph neural networks for modeling and predicting molecular properties.
-💞️ I’m open to collaborating on deep learning projects in cheminformatics and bioinformatics.
-📫 Feel free to reach out to me at: hedayathaddadi@gmail.com.
+👋 Hi, I'm Hedayat Haddadi (@HedayatHaddadi)
+🔬 Researcher in AI & Computational Chemistry | 📊 Machine Learning & Deep Learning Enthusiast
+
+👀 My work revolves around artificial intelligence, with a strong focus on machine learning and deep learning techniques.
+💡 I'm particularly interested in applications of AI in cheminformatics and bioinformatics.
+💞️ Open to collaborations on deep learning-driven research projects in these fields.
+
+📫 Feel free to reach out: hedayathaddadi@gmail.com
 
 
 <!---
