@@ -1,14 +1,9 @@
-👋 Hi, I'm Hedayat Haddadi (@HedayatHaddadi)
-🔬 Researcher in AI & Computational Chemistry | 📊 Machine Learning & Deep Learning Enthusiast
+# Hi, I'm Hedayat Haddadi 👋
 
-👀 My work revolves around artificial intelligence, with a strong focus on machine learning and deep learning techniques.
-💡 I'm particularly interested in applications of AI in cheminformatics and bioinformatics.
-💞️ Open to collaborations on deep learning-driven research projects in these fields.
+Chemistry researcher working at the intersection of **artificial intelligence, computational chemistry, and scientific data analysis**.
 
-📫 Feel free to reach out: hedayathaddadi@gmail.com
+My interests include **machine learning, deep learning, cheminformatics, molecular modelling, and data-driven methods for chemical sciences**.
 
+I use GitHub to share research code, computational workflows, and related scientific projects.
 
-<!---
-HedayatHaddadi/HedayatHaddadi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📫 **Contact:** hedayathaddadi@gmail.com
